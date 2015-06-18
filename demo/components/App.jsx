@@ -1,12 +1,12 @@
 import React from 'react';
-import RouterLayerHandler from '../../lib/components/RouterLayerHandler';
+import Layers from '../../lib/components/Layers';
 import Info from './Info.jsx';
 
 class App extends React.Component {
     render() {
         return (
             <div>
-                <RouterLayerHandler {...this.props} />
+                <Layers {...this.props} />
                 <Info />
             </div>
         );
