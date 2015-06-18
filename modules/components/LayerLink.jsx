@@ -1,4 +1,3 @@
-import React from 'react';
 import LayerManager from '../LayerManager';
 
 class LayerLink extends React.Component {

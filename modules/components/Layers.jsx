@@ -1,4 +1,3 @@
-import React from 'react';
 import Layer from './Layer';
 
 class Layers extends React.Component {

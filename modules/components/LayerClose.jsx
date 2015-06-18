@@ -1,4 +1,3 @@
-import React from 'react';
 import LayerManager from '../LayerManager';
 
 class LayerClose extends React.Component {
